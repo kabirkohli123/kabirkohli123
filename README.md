@@ -25,10 +25,9 @@
 ```yaml
 name: Kabir Kohli
 located_in: New Delhi, India
-current_job: Learning Full Stack Developer
+current_job: Machine learning Student
 education:
   [
-    "Self-Taught Developer and Designer",
     "Bachelor's in Automation and Robotics",
   ]
 
@@ -37,16 +36,19 @@ fields_of_interests:
     "Web Development",
     "Data Science",
     "Machine Learning",
+    "Block Chain",
     "UI/UX",
   ]
 technical_background:
   [
+    "Machine Learning Intern",
+    "PCB Designing Intern",
     "Full Stack Developer"
     "Python Intern"
     ""
   ]
   
-currently_learning: ["MERN Stack, Machine Learning"]
+currently_learning: [ "Machine Learning","DSA","PCB Designing","Web Developement"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
