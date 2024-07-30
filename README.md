@@ -42,6 +42,7 @@ fields_of_interests:
     "Machine Learning",
     "Block Chain",
     "UI/UX",
+    "3D Modeling",
   ]
 technical_background:
   [
