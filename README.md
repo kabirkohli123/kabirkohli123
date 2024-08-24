@@ -188,9 +188,9 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirkohli123&show_icons=true&locale=en&layout=compact" alt="Kabir" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirkohli123&show_icons=true&locale=en&layout=compact" alt="kabirkohli123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirkohli123&show_icons=true&locale=en" alt="Kabir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirkohli123&show_icons=true&locale=en" alt="kabirkohli123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirkohli123&" alt="Kabir" /></p>
 
