@@ -48,7 +48,7 @@ technical_background:
   [
     "Machine Learning Intern",
     "PCB Designing Intern",
-    "Full Stack Developer"
+    "Front End Developer"
     "Python Intern"
     ""
   ]
