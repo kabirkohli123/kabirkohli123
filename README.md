@@ -102,6 +102,10 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
     </tr>
      <tr> 
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Tensorflow<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
+      </td> 
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Numpy<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
       </td> 
@@ -135,16 +139,12 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 
 <!-- I WISH TO LEARN-->    
-<img height="35px" width="195" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning: <br>
+<img height="35px" width="195" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0"><br>The main technologies I intend to develop, enhance, or study in the future. Technology I have little familiarity with at the moment but have a lot of interest in learning: <br>
 </div>
 <div style="display: flex;">
 <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
   <tbody> 
     <tr>
-    <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Tensorflow<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
-     </td> 
        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Django<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4f983f9a-8525-4adf-a138-f23efaf4a1a9">
