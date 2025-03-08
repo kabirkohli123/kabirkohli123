@@ -37,7 +37,8 @@ education:
 
 fields_of_interests:
   [
-    "Web Development",
+    "Deep Learning",
+    "Computer Vision",
     "Data Science",
     "Machine Learning",
     "Block Chain",
@@ -53,7 +54,7 @@ technical_background:
     ""
   ]
   
-currently_learning: [ "Machine Learning","DSA","PCB Designing","Web Developement"]
+currently_learning: [ "Computer Vision","DSA","Deep Learning","Web Developement"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
