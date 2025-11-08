@@ -125,6 +125,10 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
         Pandas<br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
       </td> 
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        SQL<br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+      </td>
      </tr>
   </tbody>
 </table>
@@ -157,10 +161,6 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
         Java<br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
       </td>   
-    <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        SQL<br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-      </td>
      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Google Cloud<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
